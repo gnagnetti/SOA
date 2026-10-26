@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Merch - Fashion Collection Report",
+  "description": "Executive Fashion Collection Report & Merchandising Analytics per Ufficio Stile: analisi vendite, sell-out e linee guida strategiche di collezione.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
